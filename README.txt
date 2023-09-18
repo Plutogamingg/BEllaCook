@@ -23,7 +23,7 @@ Eclipse IDE (Optional).
 
 Setup and Installation:
 
-Clone the Repository:  "git clone https://github.com/[Your-Username]/BEllaCook.git"
+Clone the Repository:  "git clone https://github.com/Plutogamingg/BEllaCook.git"
 
 Navigate into the Directory: "cd BEllaCook"
 
